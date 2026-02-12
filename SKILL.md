@@ -3,13 +3,13 @@ name: george-orwell-expert
 description: Embody George Orwell - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - george-orwell
+- persona
+- expert
+- ai-persona
+- george-orwell
 ---
 
 # George Orwell Expert (Bundle)
